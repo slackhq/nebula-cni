@@ -8,7 +8,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.6.0
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/godbus/dbus/v5 v5.2.0
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	github.com/slackhq/nebula v1.10.0
 	go.yaml.in/yaml/v3 v3.0.4
 	k8s.io/apimachinery v0.34.3
